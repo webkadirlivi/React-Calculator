@@ -1,3 +1,8 @@
+![image](https://github.com/webkadirlivi/React-Calculator/assets/114938890/d35dd54e-b263-4fdf-a783-cd0319e33498)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
